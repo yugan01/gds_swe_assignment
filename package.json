@@ -1,0 +1,19 @@
+{
+  "name": "try_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node server/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/papaparse": "^5.3.14",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  }
+}
